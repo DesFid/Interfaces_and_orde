@@ -1,0 +1,11 @@
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/obj/Debug/netcoreapp2.1/InterfaceOrder.csprojAssemblyReference.cache
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/obj/Debug/netcoreapp2.1/InterfaceOrder.csproj.CoreCompileInputs.cache
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/obj/Debug/netcoreapp2.1/InterfaceOrder.AssemblyInfoInputs.cache
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/obj/Debug/netcoreapp2.1/InterfaceOrder.AssemblyInfo.cs
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/bin/Debug/netcoreapp2.1/InterfaceOrder.deps.json
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/bin/Debug/netcoreapp2.1/InterfaceOrder.runtimeconfig.json
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/bin/Debug/netcoreapp2.1/InterfaceOrder.runtimeconfig.dev.json
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/bin/Debug/netcoreapp2.1/InterfaceOrder.dll
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/bin/Debug/netcoreapp2.1/InterfaceOrder.pdb
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/obj/Debug/netcoreapp2.1/InterfaceOrder.dll
+/media/desfid/765B82741398972E/Backup/Adrian/Documents/Instituto/2/POO/InterfaceOrder/obj/Debug/netcoreapp2.1/InterfaceOrder.pdb
